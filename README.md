@@ -24,3 +24,8 @@ A collection of books, papers, presentations, and open source software related t
 -   Haven GRC
 -   Trial/student version of RiskLens
 -   Resilience Engineering papers
+-   Comply from strongDM
+-   OWASP SAMM model
+-   Datica policy library
+-   https://github.com/usnistgov/OSCAL
+-   https://www.open-scap.org/
